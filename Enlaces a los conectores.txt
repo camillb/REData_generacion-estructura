@@ -1,0 +1,5 @@
+Conectores de datos WEB a REData
+
+ - Demanda en tiempo real:https://red-ata-wdc-fh80pg653-camillb.vercel.app/
+
+ - Estructura - Generación (en datos): https://redata-estructura-generacion-d4tq64qwy-camillb.vercel.app/
