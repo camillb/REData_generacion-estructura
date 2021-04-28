@@ -32,7 +32,7 @@ console.log("¡Funciona!");
     ];
 
     let apiTableSchema = {
-      id: "REData II",
+      id: "REData",
       alias: "Datos de la REData API para estructura-generacion",
       columns: cols,
     };
